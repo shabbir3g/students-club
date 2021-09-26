@@ -1,0 +1,21 @@
+.course-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  width: 95%;
+  margin: auto;
+}
+.club-container {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.club-container div {
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  color: #fff;
+  text-align: center;
+}
+.club-container div h2,
+.club-container div p {
+  margin: 0;
+  padding: 5px;
+}

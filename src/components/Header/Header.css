@@ -1,0 +1,39 @@
+.header-top {
+  text-align: center;
+  background: #23180d;
+  color: #fff;
+}
+.header-top p {
+  margin: 0;
+  padding: 15px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0;
+  border-bottom: 1px solid #23180d;
+  margin: auto;
+  width: 95%;
+}
+.header ul {
+  margin-top: 12px;
+  padding: 0;
+}
+.header ul li {
+  display: inline;
+  list-style: none;
+}
+.header ul li a {
+  display: inline-block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: #000;
+  transition: 0.2s;
+}
+.header ul li a:hover {
+  background-color: #c52d2f;
+  color: #fff;
+}
+.logo {
+  height: 60px;
+}

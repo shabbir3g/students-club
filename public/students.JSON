@@ -1,0 +1,155 @@
+[
+    {
+        "stdId": "REACTHERO01",
+        "batch": "Web Design Course",
+        "name": "Mostafizur Rahman",
+        "age": "30",
+        "address": "Pabna",
+        "profession": "Freelancer",
+        "average_marks": "60",
+        "img": "https://d38vlskry94h3z.cloudfront.net/images/thumbs/0011011_mens-executive-formal-shirt_650.jpeg"
+    },
+    {
+        "stdId": "REACTHERO02",
+        "batch": "Web Design Course",
+        "name": "Sadia Islam",
+        "age": "25",
+        "address": "Chatmohor",
+        "profession": "House wife",
+        "average_marks": "57",
+        "img": "https://www.seekpng.com/png/detail/65-652659_slimming-girls-formal-wear-girls-png.png"
+    },
+    {
+        "stdId": "REACTHERO03",
+        "batch": "React Development",
+        "name": "Shabbir Hossain",
+        "age": "25",
+        "address": "Natore",
+        "profession": "Student",
+        "average_marks": "56",
+        "img": "https://cdn.shopify.com/s/files/1/0063/7082/0160/products/1_f49ab0d4-f459-44a0-b382-a09dbb736a93_360x.jpg"
+    },
+    {
+        "stdId": "REACTHERO04",
+        "batch": "JavaScript Course",
+        "name": "Sabila Mostafiz",
+        "age": "27",
+        "address": "Vangura",
+        "profession": "Student",
+        "average_marks": "54",
+        "img": "https://sc02.alicdn.com/kf/HTB1RigsdfQs8KJjSZFEq6A9RpXaU.jpg_350x350.jpg"
+    },
+    {
+        "stdId": "REACTHERO05",
+        "batch": "JavaScript Development",
+        "name": "Jhankar Mahbub",
+        "age": "40",
+        "address": "Bhola",
+        "profession": "Unemploye",
+        "average_marks": "52",
+        "img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/h_373,q_80,w_280/v1/assets/images/productimage/2019/12/22/edfd2eb9-f243-4ffd-b29a-236778ea73bf1576970626447-1.jpg"
+    },
+    {
+        "stdId": "REACTHERO06",
+        "batch": "React Development",
+        "name": "Kabila Haque",
+        "age": "25",
+        "address": "Noakhali",
+        "profession": "Student",
+        "average_marks": "45",
+        "img": "https://cdn.shopify.com/s/files/1/2598/6284/products/1_f92e5d42-3d59-4861-b883-94607e7c972e_2000x.jpg"
+    },
+    {
+        "stdId": "REACTHERO07",
+        "batch": "Web Design Course",
+        "name": "Rokea Sultana",
+        "age": "26",
+        "address": "Bozra Bazar",
+        "profession": "Student",
+        "average_marks": "58",
+        "img": "https://5.imimg.com/data5/QR/YR/MY-8574273/ladies-designer-shirt-500x500.jpg"
+    },
+    {
+        "stdId": "REACTHERO08",
+        "batch": "React Course",
+        "name": "Nehal Sordar",
+        "age": "29",
+        "address": "Borisal",
+        "profession": "Freelancer",
+        "average_marks": "53",
+        "img": "https://peterengland.imgix.net/img/app/product/3/314775-1450917.jpg"
+    },
+    {
+        "stdId": "REACTHERO09",
+        "batch": "Bootstrap Course",
+        "name": "Nishita Khanom",
+        "age": "25",
+        "address": "Dhaka",
+        "profession": "Model",
+        "average_marks": "50",
+        "img": "https://ae01.alicdn.com/kf/HTB1XrqEmaQoBKNjSZJnq6yw9VXaW/BIBOYAMALL-Work-Wear-Women-Shirt-Blusas-Femininas-Tops-Elegant-Ladies-Formal-Office-White-Blouse-Long-Sleeve.jpg"
+    },
+    {
+        "stdId": "REACTHERO10",
+        "batch": "Graphic Design",
+        "name": "Shad Ali",
+        "age": "20",
+        "address": "Hogol Baria",
+        "profession": "Student",
+        "average_marks": "44",
+        "img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/productimage/2019/12/22/72a83c19-7134-4ed5-a0b6-291e19b465701576989344763-1.jpg"
+    },
+    {
+        "stdId": "REACTHERO11",
+        "batch": "React Developer",
+        "name": "Safa Kobir",
+        "age": "25",
+        "address": "Gaibandha",
+        "profession": "Actor",
+        "average_marks": "56",
+        "img": "https://www.greatbuyz.com/blog/wp-content/uploads/2018/02/Diagonal-Placket-Dress-1.jpg"
+    },
+    {
+        "stdId": "REACTHERO12",
+        "batch": "Bootstrap Design",
+        "name": "Afran Niso",
+        "age": "41",
+        "address": "Bonani",
+        "profession": "Singer",
+        "average_marks": "51",
+        "img": "https://rukminim1.flixcart.com/image/332/398/k4zx9jk0/shirt/r/a/y/4xl-fo-shrt-pekok-5th-anfold-original-imafkzvqg4qptzg4.jpeg"
+    },
+    {
+        "stdId": "REACTHERO13",
+        "batch": "JavaScript Deveolopment",
+        "name": "Tanjin Tisha",
+        "age": "26",
+        "address": "Uttara",
+        "profession": "Model",
+        "average_marks": "57",
+        "img": "https://pbs.twimg.com/media/Ewr4_W1VoAcRKT2.jpg"
+    },
+    {
+        "stdId": "REACTHERO14",
+        "batch": "React Native Developer",
+        "name": "Tahsan Khan",
+        "age": "40",
+        "address": "Noakhali",
+        "profession": "Singer",
+        "average_marks": "52",
+        "img": "https://i.pinimg.com/originals/8e/34/9d/8e349d10f674df670db569f7ef732096.jpg"
+    },
+    {
+        "stdId": "REACTHERO15",
+        "batch": "JavaScript Developer",
+        "name": "Tasnia Farin",
+        "age": "27",
+        "address": "Dhaka",
+        "profession": "Actor",
+        "average_marks": "55",
+        "img": "https://digitaltech24.com/wp-content/uploads/2021/05/tasnia-farin.jpg"
+    }
+
+
+
+]
